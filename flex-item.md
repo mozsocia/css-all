@@ -90,7 +90,7 @@
 ```
 ![image](https://user-images.githubusercontent.com/12442613/188301177-d9597602-5524-414d-8d2c-ee6915cc0e4f.png)
 
-
+---------------------------
 # flex-basis
 
 ```html
