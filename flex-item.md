@@ -1,4 +1,4 @@
-#flex-grow
+## flex-grow
 
 ```html
 <!DOCTYPE html>
